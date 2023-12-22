@@ -32,7 +32,7 @@ export default function MarketingPage() {
           <span className="text-emerald-500">tasked</span> helps team move
           faster
         </h1>
-        <p className="w-fit rounded-md bg-gradient-to-r from-fuchsia-600 to-pink-600 px-6 pb-2 pt-4 text-3xl text-white md:text-6xl">
+        <p className="w-fit rounded-md bg-gradient-to-r from-fuchsia-600 to-pink-600 px-6 py-4 text-3xl text-white md:text-6xl">
           work forward.
         </p>
       </div>
